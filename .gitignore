@@ -6,6 +6,8 @@ bin-release/
 
 # Other files and folders
 .settings/
+.idea/
+HTML_Layout_Assignment.iml
 
 # Executables
 *.swf

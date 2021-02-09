@@ -1,0 +1,79 @@
+.head
+{
+    font-size: large;
+    font-family: Arial;
+    color: dimgray;
+}
+
+.navigationBar
+{
+    background-color: darkgray;
+    overflow: hidden;
+}
+
+.navigationBar a
+{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 10px 12px;
+    font-size: 20px;
+}
+
+.navigationBar a:hover
+{
+    background-color: forestgreen;
+    color: white;
+}
+
+.html_Introduction
+{
+    font-size: x-large;
+    color: black;
+    font-family: sans-serif;
+}
+
+.html_newline
+{
+    font-size: 18px;
+    color: dimgray;
+    font-family: sans-serif;
+}
+
+.html_element
+{
+    font-size: 15px;
+    color: dimgray;
+    font-family: sans-serif;
+}
+
+table {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid lightgray;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
+
+}
+
+.align_in_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feedback
+{
+    font-family: sans-serif;
+    font-size: x-large;
+    color: white;
+    background-color: palegreen;
+}
